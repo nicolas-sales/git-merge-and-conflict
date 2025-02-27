@@ -1,1 +1,1 @@
-# git-merge-and-conflict
+# Updated application developer B 
