@@ -1,1 +1,1 @@
-# git-merge-and-conflict
+# Update application adding developer A story
